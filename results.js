@@ -185,7 +185,8 @@ const RESULTS = {
     "round32": [
       "Canada",
       "Paraguay",
-      "Morocco"
+      "Morocco",
+      "Brazil"
     ],
     "round16": [],
     "quarterfinals": [],
@@ -220,7 +221,7 @@ const RESULTS = {
           "match": 76,
           "team1": "Brazil",
           "team2": "Japan",
-          "winner": null
+          "winner": "Brazil"
         },
         {
           "match": 77,
@@ -305,6 +306,12 @@ const RESULTS = {
         {
           "match": 90,
           "team1": "Paraguay",
+          "team2": null,
+          "winner": null
+        },
+        {
+          "match": 91,
+          "team1": "Brazil",
           "team2": null,
           "winner": null
         }
